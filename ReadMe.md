@@ -10,7 +10,7 @@ Using the LOAD command.
 ](PICO-8_0.gif)
 Using copy/paste
 
-![-Use PRINT command hello <name>](Hellooo.gif)
+![-Use PRINT command](Hellooo.gif)
 Use PRINT name
 
 ![-Using SPLORE command
