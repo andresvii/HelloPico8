@@ -1,7 +1,7 @@
 # HelloPico8
-# Andres Hernandez
 
-Hello world featuring Pico8.
+
+Hello world featuring Pico8 by Andres Hernandez
 
 ![-Using LOAD command](LOAD.gif)
 Using the LOAD command.
