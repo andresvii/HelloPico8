@@ -18,4 +18,4 @@ Use PRINT name
 Using SPLORE
   
 ![img of folder](Last.png)
-PDF of file folder
+png of file folder
