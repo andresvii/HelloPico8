@@ -2,6 +2,7 @@
 
 
 Hello world featuring Pico8 by Andres Hernandez
+LUA programming language
 
 ![-Using LOAD command](LOAD.gif)
 Using the LOAD command.
